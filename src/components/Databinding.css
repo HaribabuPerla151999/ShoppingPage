@@ -1,0 +1,15 @@
+
+.heading{
+    text-align: center;
+}
+.link{
+    color:blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.linkActive{
+    display:"block";
+}
+.linkDisable{
+    display: none;
+}
